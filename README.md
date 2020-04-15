@@ -32,7 +32,7 @@ for myself.
 ![Spreadsheet 1](https://user-images.githubusercontent.com/57572818/79356056-7a839400-7f0c-11ea-94bc-68228f6101bd.jpg)
 ![Spreadsheet 2](https://user-images.githubusercontent.com/57572818/79356019-6f306880-7f0c-11ea-82a8-caf65106796c.jpg)
 
-##THE RED BLACK TREE: WHAT IS IT?
+### THE RED BLACK TREE: WHAT IS IT?
 Basically, a red black tree is a binary search tree that has rules to achieve logarithmic runtime, 
 so that nodes have its children and also a color (red or black). 
 The colors themselves don't matter. The root node must always be black, the nodes must always be red or black,
@@ -42,7 +42,7 @@ also classified as the nodes that are 'null') must be black. Red Black trees are
 rotate, and switch nodes around in-order to follow the 'rules' that I listed above. What is the benefit of doing this, though?
 
 
-##THE RED BLACK TREE: WHERE ARE THEY USED?
+### THE RED BLACK TREE: WHERE ARE THEY USED?
 Red Black Trees are extremely efficient and fast, and although they're difficult to understand, they are very useful for a 
 variety of purposes. They are very useful to replace more simple types of trees, for the benefit of fast searches.
 In the C++ Standard Template Library, red black trees are used for sets and maps. Red black trees
