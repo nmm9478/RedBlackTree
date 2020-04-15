@@ -1,6 +1,6 @@
 # RedBlackTree
 
-####Red Black Tree (also known as P.L.A.N.T. (Parallel Log(n) Algorithm Nodes Tree))
+#### Red Black Tree (also known as P.L.A.N.T. (Parallel Log(n) Algorithm Nodes Tree))
 
 This is an implementation of a Red Black Tree in Java.
 
@@ -14,7 +14,7 @@ algorithms and data structures.
 I know that algorithms and data structures are essential parts of learning computer science so I decided to challenge myself
 with a this self-balancing binary search tree. This was very difficult for me to figure out, but well-worth the effort.
 
-## THE RED BLACK TREE: LEARNING ABOUT IT
+### THE RED BLACK TREE: LEARNING ABOUT IT
 I had to read chapters of textbooks (Algorithms, for example), watch countless YouTube videos, read articles for hours,
 and read as many Reddit posts about binary search trees as I could, until I understood the red black tree.
 It was briefly taught to me in Computer Science class but I didn't understand it then. 
